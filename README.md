@@ -7,4 +7,4 @@ I recently completed a full-stack web development course. Therefore, I am lookin
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETweb51&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/ETweb51)  
+<img src="https://visitor-badge.glitch.me/badge?page_id=ETweb51"> 
